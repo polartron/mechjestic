@@ -45,17 +45,7 @@ You have this fascinating engine upgrade system with fuel management, but it fee
 
 #### 3. **Deckout as a Loss Condition Needs Counterplay**
 
-Losing because your deck runs out feels *bad* unless the player has tools to prevent it.
-
-**Currently Missing:**
-- Deck recycling cards (shuffle scrap into deck)
-- Deck size visibility/planning tools
-- Cards that grow stronger as deck shrinks
-- Alternative win conditions for "thin deck" builds
-
-**Recommendation:** If deckout is a threat, make it a *manageable* threat with skill expression.
-
----
+**(DECKOUT REMOVED)**
 
 #### 4. **Meta-Progression Feels Shallow**
 
