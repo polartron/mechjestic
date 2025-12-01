@@ -6,16 +6,16 @@ Welcome to the comprehensive wiki for SteamDeckBuilder (Mechjestic), a card-base
 
 1. [Game Overview](#game-overview)
 2. [Core Systems](#core-systems)
-   - [Battle System](""Battle-System.md)
-   - [Card System](""Card-System.md)
+   - [Battle System](Battle-System.md)
+   - [Card System](Card-System.md)
    - [Overworld System](""Overworld-System.md)
-   - [Enemy System](""Enemy-System.md)
-   - [Progression & Endless Mode](""Progression-Endless-Mode.md)
-   - [Perk System](""Perk-System.md)
-   - [Loot System](""Loot-System.md)
-   - [Character Customization](""Character-Customization.md)
-   - [Save System](""Save-System.md)
-   - [Tutorial System](""Tutorial-System.md)
+   - [Enemy System](Enemy-System.md)
+   - [Progression & Endless Mode](Progression-Endless-Mode.md)
+   - [Perk System](Perk-System.md)
+   - [Loot System](Loot-System.md)
+   - [Character Customization](Character-Customization.md)
+   - [Save System](Save-System.md)
+   - [Tutorial System](Tutorial-System.md)
 
 ## Game Overview
 
@@ -48,7 +48,7 @@ Comprehensive card system with multiple card types:
 - **Perk Cards**: Permanent upgrades
 - **Customization Cards**: Character, Mech, Starter Deck, Difficulty, Game Mode
 
-[Read more →](""Card-System.md)
+[Read more →](Card-System.md)
 
 ### Overworld System
 Procedurally generated overworld where players:
@@ -57,7 +57,7 @@ Procedurally generated overworld where players:
 - Navigate using pathfinding
 - Interact with various tile types
 
-[Read more →](""Overworld-System.md)
+[Read more →](Overworld-System.md)
 
 ### Enemy System
 Dynamic enemy system with different roles and behaviors:
@@ -68,7 +68,7 @@ Dynamic enemy system with different roles and behaviors:
 - **Utilitarian**: Support role, stays behind strong enemies
 - **Disruptive**: Standard chase behavior
 
-[Read more →](""Enemy-System.md)
+[Read more →](Enemy-System.md)
 
 ### Progression & Endless Mode
 Endless mode progression system:
@@ -78,7 +78,7 @@ Endless mode progression system:
 - Victory conditions
 - Stats tracking
 
-[Read more →](""Progression-Endless-Mode.md)
+[Read more →](Progression-Endless-Mode.md)
 
 ### Perk System
 Permanent upgrades that persist across runs:
@@ -86,7 +86,7 @@ Permanent upgrades that persist across runs:
 - Perk abilities that modify gameplay
 - Perk inventory management
 
-[Read more →](""Perk-System.md)
+[Read more →](Perk-System.md)
 
 ### Loot System
 Loot generation and management:
@@ -96,7 +96,7 @@ Loot generation and management:
 - Boss rewards
 - Loot inventory
 
-[Read more →](""Loot-System.md)
+[Read more →](Loot-System.md)
 
 ### Character Customization
 Pre-run customization system:
@@ -106,7 +106,7 @@ Pre-run customization system:
 - Difficulty selection
 - Game mode selection
 
-[Read more →](""Character-Customization.md)
+[Read more →](Character-Customization.md)
 
 ### Save System
 Persistent save system:
@@ -115,7 +115,7 @@ Persistent save system:
 - Customization settings
 - Daily run progress
 
-[Read more →](""Save-System.md)
+[Read more →](Save-System.md)
 
 ### Tutorial System
 In-game tutorial system:
@@ -123,15 +123,15 @@ In-game tutorial system:
 - First-time player tips
 - Dialogue system
 
-[Read more →](""Tutorial-System.md)
+[Read more →](Tutorial-System.md)
 
 ## Quick Links
 
-- [Battle Mechanics](""Battle-System.md#battle-mechanics)
-- [Card Types](""Card-System.md#card-types)
-- [Enemy Roles](""Enemy-System.md#enemy-roles)
-- [Progression System](""Progression-Endless-Mode.md#progression-system)
-- [Perk Collection](""Perk-System.md#perk-collection)
+- [Battle Mechanics](Battle-System.md#battle-mechanics)
+- [Card Types](Card-System.md#card-types)
+- [Enemy Roles](Enemy-System.md#enemy-roles)
+- [Progression System](Progression-Endless-Mode.md#progression-system)
+- [Perk Collection](Perk-System.md#perk-collection)
 
 ---
 
